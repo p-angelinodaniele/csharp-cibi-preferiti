@@ -13,7 +13,7 @@ for (int i = 0; i < cibiPreferitiClassifica.Length; i++)
 }
 
 Console.WriteLine("Al primo posto c'è: " + cibiPreferitiClassifica[0]);
-//Console.WriteLine("All'ultimo posto c'è: " + cibiPreferitiClassifica[7]);
+Console.WriteLine("All'ultimo posto c'è: " + cibiPreferitiClassifica[7]);
 
 
 var lunghezzaArray = cibiPreferitiClassifica.Length;
